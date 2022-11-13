@@ -1,0 +1,9 @@
+import os
+
+for file in os.listdir('./'):
+    if file.endswith(".tar"):
+        dir = file.split("__")[0][14:]
+        # os.mkdir(f"./{dir}")
+        #cmd = f"tar -xvf \'{file}\' -C {dir}"
+        os.system(f"rm \'{file}\'")
+        #print(cmd)
