@@ -1,10 +1,25 @@
 import os
+import pandas as pd
+
+# def func(s):
+#     if type(s) != str:
+#         return s
+#     name = s.split("]")[0][1:]
+#     location = name.replace(" ", "_")
+#     return f"[{name}]({location})"
+
+# df = pd.read_csv("table.csv", index_col="Week")
+# df = df.applymap(func)
+# df.to_csv("newtable.csv", index=True, header=True)
+
+
 
 for file in os.listdir('./'):
     if file.endswith(".tar"):
         dir = file.split("__")[0][14:]
-        # os.mkdir(f"./{dir}")
+        print(dir)
+        os.mkdir(f"./{dir}")
         cmd = f"tar -xvf \'{file}\' -C {dir}"
         os.system(cmd)
-        os.system(f"rm \'{file}\'")
+        #os.system(f"rm \'{file}\'")
         #print(cmd)
