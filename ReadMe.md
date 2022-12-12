@@ -1,6 +1,6 @@
 ## Problems
 
-| Week | Problem 1                                          | Problem 2                                                          | Problem 3                                  | Problem 4                                    | POTW                             | Unnamed: 6             |
+| Week | Problem 1                                          | Problem 2                                                          | Problem 3                                  | Problem 4                                    | POTW                             | Extra             |
 |------|----------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------|----------------------------------------------|----------------------------------|------------------------|
 | 1    | [Building the Sum](Building_the_Sum)               | [Dominoes](Dominoes)                                               | [Even Pairs](Even_Pairs)                   | [Even Matrices](Even_Matrices)               | [/](/)                           |                        |
 | 2    | [Beach Bars](Beach_Bars)                           | [Burning Coins](Burning_Coins)                                     | [Search Snippets](Search_Snippets)         | [The Great Game](The_Great_Game)             | [Deck of Cards](Deck_of_Cards)   |                        |
