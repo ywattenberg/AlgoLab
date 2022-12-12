@@ -1,7 +1,6 @@
 ## ToDo:
   - Hand (50%)
   - Ceryneian Hind (0%)
-  - 
   - Everything after Week 9 excluding POTW
 
 ## Problems
