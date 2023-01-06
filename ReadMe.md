@@ -1,8 +1,13 @@
+## ToDo:
+  - Hand (50%)
+  - Ceryneian Hind (0%)
+  - Everything after Week 9 excluding POTW
+
 ## Problems
 
 | Week | Problem 1                                          | Problem 2                                                          | Problem 3                                  | Problem 4                                    | POTW                             | Extra             |
 |------|----------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------|----------------------------------------------|----------------------------------|------------------------|
-| 1    | [Building the Sum](Build_the_Sum)               | [Dominoes](Dominoes)                                               | [Even Pairs](Even_Pairs)                   | [Even Matrices](Even_Matrices)               | [/](/)                           |                        |
+| 1    | [Building the Sum](Build_the_Sum)               | [Dominoes](Dominoes)                                               | [Even Pairs](Even_Pairs)                   | [Even Matrices](Even_Matrices)               | -                           |                        |
 | 2    | [Beach Bars](Beach_Bars)                           | [Burning Coins](Burning_Coins)                                     | [Search Snippets](Search_Snippets)         | [The Great Game](The_Great_Game)             | [Deck of Cards](Deck_of_Cards)   |                        |
 | 3    | [Important Bridges](Important_Bridges)             | [Buddy Selection](Buddy_Selection)                                 | [Ant Challenge](Ant_Challenge)             | [First steps with BGL](First_steps_with_BGL) | [San Francisco](San_Francisco)   |                        |
 | 4    | [Hit](Hit)                                         | [Antenna](Antenna)                                                 | [Hiking Maps](Hiking_Maps)                 | [First Hit](First_Hit)                       | [Greyjoy](Greyjoy)               |                        |
